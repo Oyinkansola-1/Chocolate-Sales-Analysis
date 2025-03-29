@@ -16,5 +16,12 @@ This Excel dashboard analyzes chocolate sales across different countries and pro
 2. Open in **Excel 2016 or later**.  
 3. Click on the **slicers** to filter the data dynamically.  
 
-💬 **Want to connect? Drop a comment on LinkedIn😎!**  
+💬 **Want to connect? Drop a comment on LinkedIn😎!** 
+(https://www.linkedin.com/in/akinleye-oyinkansola-)
+
+## 📊 Data Source  
+The dataset used in this project was obtained from Kaggle:  
+[Chocolate Sales Dataset](https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales)  
+
+All rights to the original dataset belong to the author on Kaggle.
 
