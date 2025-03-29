@@ -7,9 +7,9 @@ This Excel dashboard analyzes chocolate sales across different countries and pro
 - 📈 KPI Cards for Insights
 
 🔍 **Key Findings:**  
-✅ Highest Monthly Sales: **$6,183,625.00**  
+✅ Total Sales: **$6,183,625.00**  
 ✅ Best-Selling Product: **Peanut Butter Cubes**  
-✅ Total Revenue: **99% Dark and Pure**  
+✅ Lowest-Selling Product: **99% Dark and Pure**  
 
 📥 **How to Use the Dashboard**  
 1. Download the Excel file from this repo.  
